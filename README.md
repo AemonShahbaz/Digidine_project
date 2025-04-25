@@ -7,7 +7,7 @@ MongoDB Compass (Ensure MongoDB is running) → Install MongoDB Compass
 
 Clone this Repository
 
-git clone https://github.com/mehdi621-git/DigiDine-Project-Backend/
+git clone https://github.com/AemonShahbaz/Digidine_project/
 
 2️⃣ Install Dependencies
 
